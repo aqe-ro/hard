@@ -68,6 +68,7 @@
 
     .pale-red {
       color: var(--pale-red);
+	  overflow-y: hidden;
     }
 
     .fade-in {
@@ -431,6 +432,7 @@ From here */
   box-shadow: 0 0 18px rgba(0, 0, 0, 0.55);
   backdrop-filter: blur(6px);
   margin-bottom: 16px;
+  overflow-y: hidden;
 }
 
 .member-list p {
