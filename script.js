@@ -50,25 +50,25 @@ document.addEventListener('DOMContentLoaded', () => {
         g0th1cad3ath: {
             name: 'G0TH1CAD3ATH',
             image: './assets/wtf.mp4',
-            description: 'cemetery wifi left open; every packet screams.',
+            description: 'angelmaycry',
             track: './assets/hateyou.mp3'
         },
         monteryhack: {
             name: 'MONTERYHACK',
             image: './assets/ambrobene.mp4',
-            description: 'ports bleed; root prays; shell laughs last.',
+            description: 'one hundred thousand dollars...',
             track: './assets/reflection.mp3'
         },
         enigma: {
             name: 'ENIGMA',
             image: './assets/enigma.jpg',
-            description: 'static riddles carve sigils into your screen.',
+            description: 'enigmafinder.net',
             track: './assets/project_61.mp3'
         },
         ceo: {
             name: 'CEO',
             image: './assets/CEO.jpg',
-            description: 'boardroom lights flicker; contracts bleed.',
+            description: 'ceo of your work xd.',
             track: './assets/xdcute.mp3'
         },
         cataracta: {
@@ -160,6 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.removeOverlay = removeOverlay;
     window.showMember = showMember;
 });
+
 
 
 
