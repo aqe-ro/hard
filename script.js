@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         monteryhack: {
             name: 'MONTERYHACK',
-            image: './assets/monteryhack.jpg',
+            image: './assets/ambrobene.mp4',
             description: 'ports bleed; root prays; shell laughs last.',
             track: './assets/reflection.mp3'
         },
@@ -160,6 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
     window.removeOverlay = removeOverlay;
     window.showMember = showMember;
 });
+
 
 
 
