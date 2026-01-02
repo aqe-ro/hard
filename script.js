@@ -5,9 +5,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const memberInfoData = {
         paris: {
             name: 'PARIS',
-            image: './assets/paris.jpg',
-            description: 'knock knock knock, who is?',
-            track: './assets/carti.mp3'
+            image: './assets/parisfrance.png',
+            description: 'ya kurju amneziju >_<',
+            track: './assets/montery.mp3'
         },
         aqero: {
             name: 'AQERO',
@@ -132,4 +132,5 @@ document.addEventListener('DOMContentLoaded', () => {
     window.removeOverlay = removeOverlay;
     window.showMember = showMember;
 });
+
 
